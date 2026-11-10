@@ -6,6 +6,8 @@
 
 Built for the Alipay AI Pay PAYATHON 2026 Vibe Pay track, with React, Vite, Express, and a SQLite transaction ledger. Local development runs on port **3002**.
 
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Helia-zhong/paperpatent-vibepay)
+
 ## 评委快速体验 / Judge walkthrough
 
 1. 选择专利、论文、结题报告或 SLA 退款演练案卷，查看免费专家诊断。
